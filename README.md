@@ -1,10 +1,14 @@
-## Hi there 👋
+# Chris Oketch 👋
+### Full-Stack & Blockchain Engineer
 
-- 🔭 I’m currently working on ai agents in web3,stablecoin payments and developer relations
-- 🌱 I’m currently learning quantum agentic payments zk and cryptography
-- 👯 I’m looking to collaborate on ai agent's projects cross-border payments infra's and technical web3 workshops
+I build high-performance onchain applications and the infrastructure that powers them. My work spans the intersection of decentralized networks, fintech, and AI, focusing on building robust systems that solve real-world UX friction at scale.
 
-- ⚡ Fun fact: I believe privacy and ai agents will win
+---
+
+- 🔭 **Currently working on:** AI agents in Web3, stablecoin payments, and developer relations.
+- 🌱 **Currently learning:** Quantum agentic payments, Zero-Knowledge (ZK) proofs, and cryptography.
+- 👯 **Looking to collaborate on:** AI agent projects, cross-border payments infrastructure, and technical Web3 workshops.
+- ⚡ **Fun fact:** I believe privacy and AI agents will win.
 
 
 ## Socials:
