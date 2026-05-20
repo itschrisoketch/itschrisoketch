@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ai agents in web3,stablecoin payments and developer relations 
+- 🔭 I’m currently working on ai agents in web3,stablecoin payments and developer relations
 - 🌱 I’m currently learning quantum agentic payments zk and cryptography
 - 👯 I’m looking to collaborate on ai agent's projects cross-border payments infra's and technical web3 workshops
-- 🤔 I’m looking for help with ...
 
 - ⚡ Fun fact: I believe privacy and ai agents will win
 
@@ -20,5 +19,3 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=itschrisoketch&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
