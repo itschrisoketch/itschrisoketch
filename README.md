@@ -5,10 +5,14 @@ I build high-performance onchain applications and the infrastructure that powers
 
 ---
 
-- 🔭 **Currently working on:** AI agents in Web3, stablecoin payments, and developer relations.
-- 🌱 **Currently learning:** Quantum agentic payments, Zero-Knowledge (ZK) proofs, and cryptography.
-- 👯 **Looking to collaborate on:** AI agent projects, cross-border payments infrastructure, and technical Web3 workshops.
-- ⚡ **Fun fact:** I believe privacy and AI agents will win.
+- 🔭 **Currently working on:** 
+AI agents in Web3, stablecoin payments, and developer relations.
+- **Currently learning:** 
+Quantum agentic payments, Zero-Knowledge (ZK) proofs, and cryptography.
+- **Looking to collaborate on:** 
+AI agent projects, cross-border payments infrastructure, and technical Web3 workshops.
+- **Fun fact:** 
+I believe privacy and AI agents will win.
 
 
 ## Socials:
