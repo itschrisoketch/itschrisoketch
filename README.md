@@ -1,15 +1,11 @@
-# Chris Oketch 👋
-### Full-Stack & Blockchain Engineer
+### Full-Stack Web3 & Blockchain Engineer
 
-I build high-performance onchain applications and the infrastructure that powers them. My work spans the intersection of decentralized networks, fintech, and AI, focusing on building robust systems that solve real-world UX friction at scale.
 
----
+I build high-performance onchain applications and the infrastructure that powers them. My work lives at the intersection of decentralized networks, fintech, and AI, with a core focus on engineering robust systems that eliminate real-world UX friction at scale.
 
-- **Currently working on:**<br>AI agents in Web3, stablecoin payments, and developer relations.
-- **Currently learning:**<br>Quantum agentic payments, Zero-Knowledge (ZK) proofs, and cryptography.
-- **Looking to collaborate on:**<br>AI agent projects, cross-border payments infrastructure, and technical Web3 workshops.
-- **Fun fact:**<br>I believe privacy and AI agents will win.
+Right now, I'm focused on developing AI agents in Web3, building stablecoin payment rails, and leading developer relations. To push the boundaries of what's possible, I'm currently diving deep into quantum agentic payments, Zero-Knowledge (ZK) proofs, and core cryptography.
 
+I’m always looking to connect and collaborate on AI agent projects, cross-border infrastructure, or technical Web3 workshops. If you want to build something impactful, let's talk—because I firmly believe privacy and AI agents are going to win.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/chris-oketch-a2a1392a5) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/_ChrisOketch) 
